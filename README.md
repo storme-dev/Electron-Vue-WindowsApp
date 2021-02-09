@@ -1,5 +1,4 @@
-# chat
-
+# buhapp
 ## Project setup
 ```
 npm install
